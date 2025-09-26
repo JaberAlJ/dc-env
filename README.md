@@ -1,5 +1,10 @@
 # **dc-env**
 
+![GitHub last commit](https://img.shields.io/github/last-commit/JaberAlJ/dc-env)
+![GitHub stars](https://img.shields.io/github/stars/JaberAlJ/dc-env?style=social)
+
+> ✍️ Written by: [*JaberAlJ*](https://github.com/JaberAlJ)
+
 ## **Document Creation Environment**
 
 #### "Work Smarter, Not Harder"
